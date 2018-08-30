@@ -142,8 +142,8 @@
 
 	    Garden.options = {
 	        petalCount: {
-	            min: 8,
-	            max: 15
+	            min: 0,
+	            max: 0
 	        },
 	        petalStretch: {
 	            min: 0.1,
